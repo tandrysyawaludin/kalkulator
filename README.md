@@ -1,2 +1,3 @@
 # kalkulator
-ini aplikasi kalkulator untuk menghitung matematika sederhana
+ini aplikasi kalkulator xyz untuk menghitung matematika sederhana
+created by tandry
